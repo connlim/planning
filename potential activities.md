@@ -10,13 +10,15 @@
 
 #### web *design*
 
-* prerequisite: HTML and CSS
+* prerequisite:
+	* HTML and CSS
 
 #### programming concepts
 
 * Python/JavaScript
 
-* prerequisite: how computers work
+* prerequisite:
+	* how computers work
 
 #### design concepts 
 
@@ -26,27 +28,34 @@
 
 (and teaching them how incorrect aspect rations are BAAAD :) )
 
-#### Arduino
+#### Arduinos
 
 * basic I/O
 
 (haha I attended an EIG meeting as a non-member just a few weeks back and they were teaching Arduinos, so maybe?)
 
-* requirements: (not cost-effective, we can coordinate with the EIG group)
+* requirements: (not cost-effective, we can collaborate with the EIG group)
 	* photoelectric sensor
 	* LED
 	* (ultrasonic sensor per three people?)
-* prerequisite: basic programming
+* prerequisite: 
+	* basic programming
 
 # In-between
 
-#### Internet Protocols? 
+#### internet protocols? 
 
-#### *Networking?*
+#### *networking?*
 
 # Upper
 
 #### two hour hacking/zero-day competitions
+
+# All
+
+#### GitHub for non-developers
+
+* basic collaboration techniques 
 
 # Welcome activity
 
