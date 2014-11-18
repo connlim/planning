@@ -19,3 +19,7 @@ When done, scroll down, give your change a title and press "Commit changes". Don
 Markdown is a syntax to write formatted plaintext documents. 
 
 This [guide](https://guides.github.com/features/mastering-markdown/) will get you very quickly into markdown. Don't worry, it's easy. 
+
+## Viewing past changes
+
+Click on [commits](https://github.com/nushinfocomm/planning/commits)
