@@ -23,3 +23,7 @@ This [guide](https://guides.github.com/features/mastering-markdown/) will get yo
 ## Viewing past changes
 
 Click on [commits](https://github.com/nushinfocomm/planning/commits)
+
+## Submitting issues
+
+Can be regards to anything: feedback, problems, help.  
